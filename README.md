@@ -76,6 +76,7 @@ This repository helps me:
 If you have suggestions, feedback, or want to collaborate:
 
 🐙 GitHub: https://github.com/samridhi78B
+
 💼 LinkedIn: https://www.linkedin.com/in/samridhi-gumber-929b36319/
 
 ---
@@ -83,4 +84,6 @@ If you have suggestions, feedback, or want to collaborate:
 ⭐ Support
 
 If you find this repository helpful, consider giving it a ⭐!
+
 Your support keeps me motivated to learn and share more. 😊
+
