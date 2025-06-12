@@ -26,11 +26,14 @@ Each file in this repository is a standalone C++ program focusing on specific co
 
 ## ⚙️ How to Run
 
-You can compile and run any program using a C++ compiler such as `g++`.
+You can compile and run any program using a C++ compiler such as g++.
+
 
 bash :
+
 g++ filename.cpp -o output
 ./output
+
 
 Or use any preferred IDE:
 
@@ -40,6 +43,7 @@ Or use any preferred IDE:
 
 🖥️ Code::Blocks or Dev-C++
 
+--- 
 
 🎯 Why This Repo?
 
