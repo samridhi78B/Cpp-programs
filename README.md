@@ -17,9 +17,6 @@ Each file in this repository is a standalone C++ program focusing on specific co
 - 📊 Arrays & Vectors
 - ⚙️ Strings & String Functions
 - 📍 Pointers & References
-- 🌳 Structures & Classes
-- 🧠 Object-Oriented Programming (OOP)
-- 🧱 STL (Standard Template Library) – Vectors, Maps, Sets, etc.
 - 🧪 Practice Problems & Logic Building
 
 ---
