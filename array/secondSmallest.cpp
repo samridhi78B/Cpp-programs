@@ -16,7 +16,7 @@ int main(){
      }
     }
      for(int i=0; i<n; i++){
-     if(smallest != secSmall && secSmall > arr[i]){
+     if(arr[i] != smallest && secSmall > arr[i]){
          secSmall= arr[i];
      }
     }
