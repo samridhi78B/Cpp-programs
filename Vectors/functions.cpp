@@ -12,6 +12,7 @@ int main(){
     cout<<"AT first index: "<<vec.front()<<endl;
      cout<<"AT last index: "<<vec.back()<<endl;
      cout<<"Value at index: "<<vec.at(1)<<endl;
-    cout<<vec.size();
+    cout<<vec.size()<<endl; // size(number of element)
+    cout<<vec.capacity(); // capacity
     return 0;
 }
